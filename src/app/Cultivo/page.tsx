@@ -7,7 +7,7 @@ export default function Cultivo() {
                         bg-cover bg-center bg-no-repeat text-white pt-24 md:pt-[17dvh] px-4 md:px-20">
 
             <h1 className="text-4xl md:text-7xl font-bold mb-6 md:mb-10 mt-6 md:mt-10">
-                PILARTES DO CULTIVO DE SOJA
+                PILARES DO CULTIVO DE SOJA
             </h1>
 
             <section className="flex flex-col gap-6 md:gap-8 text-justify pb-16">
