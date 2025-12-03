@@ -2,7 +2,7 @@ export function Funcionalidades() {
     return (
         <main className="bg-gradient-to-t from-[#37421F] to-[#86ad35] text-white py-10 px-6 sm:px-10">
 
-            <h1 className="text-4xl sm:text-6xl lg:text-8xl font-bold mb-10 text-center lg:text-left lg:ml-20">FUNCIONALIDADES</h1>
+            <h1 className="text-4xl sm:text-6xl lg:text-8xl font-bold mb-10 text-center lg:text-left lg:ml-20 pt-[10px]">FUNCIONALIDADES</h1>
 
             <section className="flex flex-col lg:flex-row w-full max-w-7xl mx-auto justify-around gap-8">
 
