@@ -11,7 +11,7 @@ export function Monitoramento() {
                     alt="Imagem de fundo com plantações e máquinas agrícolas"
                     width={1920}
                     height={1080}
-                    className="absolute w-full h-[182vh] lg:h-[140vh] object-cover object-center"
+                    className="absolute w-full h-[185vh] lg:h-[135vh] object-cover object-center"
                     sizes="100vw"
                     priority
                 />
